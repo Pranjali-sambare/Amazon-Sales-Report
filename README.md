@@ -1,3 +1,5 @@
+📊 Amazon Sales Insights Dashboard: A Comprehensive Data Visualization Report 📈
+
 Overview
 
 This project is an in-depth sales report for Amazon, developed to provide insights into various sales metrics such as total orders, revenue, state-wise and city-wise sales, and category-wise performance. The report also includes a fulfillment analysis and performance tracking to help stakeholders make informed decisions based on the data trends.
